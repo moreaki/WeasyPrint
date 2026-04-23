@@ -20,4 +20,5 @@ WeasyPrint
 
    changelog
    contribute
+   leafwise_workflow
    support
